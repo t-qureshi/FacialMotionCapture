@@ -47,3 +47,8 @@ sudo find / -iname "Python.h"
 export C_INCLUDE_PATH=${your_python_directory}
 export CPLUS_INCLUDE_PATH=${your_python_directory}
 ```
+- When "Capture" button is clicked, Blender turns off
+```bash
+# Open Blender using the command line, something like that
+/Applications/Blender.app/Contents/MacOS/Blender
+```
