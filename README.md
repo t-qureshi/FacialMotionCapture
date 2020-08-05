@@ -30,7 +30,7 @@ http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 # Additional documentation on ibug facial annotations
 https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/
 
-# Issue
+# Issues
 - dlib installation failed
 ```bash
 brew install dlib
