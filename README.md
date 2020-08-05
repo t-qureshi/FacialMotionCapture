@@ -31,7 +31,7 @@ http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/
 
 # Issues
-- dlib installation failed
+- dlib installation failed.
 ```bash
 brew install dlib
 brew install cmake
@@ -50,7 +50,7 @@ sudo find / -iname "Python.h"
 export C_INCLUDE_PATH=${your_python_directory}
 export CPLUS_INCLUDE_PATH=${your_python_directory}
 ```
-- When "Capture" button is clicked, Blender turns off
+- When "Capture" button is clicked, Blender turns off.
 ```bash
 # Open Blender using the command line, something like that
 /Applications/Blender.app/Contents/MacOS/Blender
