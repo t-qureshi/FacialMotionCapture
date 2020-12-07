@@ -8,13 +8,11 @@ https://youtu.be/O7nNO3FLkLU
 # Installation Commands
 ```python
 # Import sys and use sys.path to get Blender's default python path
-import sys
-sys.path
-# Find the path from the output, something like that
-/Applications/Blender.app/Contents/Resources/2.82/python/bin/python3.7m
+go to bin directory in blender (where blender is extracted)
 ```
 ```bash
-# Go to the default python directory of Blender, something like that
+# Go to the default python directory of Blender, something like that (~/Downloads/blender-2.91.0-linux64/2.91/python/bin)
+# Open the Terminal here and run bellow commands
 cd /Applications/Blender.app/Contents/Resources/2.82/python/
 # Use Blender's default python to install, something like that
 ./python3.7m -m ensurepip
